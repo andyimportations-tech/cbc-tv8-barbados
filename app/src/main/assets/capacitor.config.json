@@ -1,0 +1,20 @@
+{
+	"appId": "com.cbctv8.barbados",
+	"appName": "CBC TV 8 Barbados",
+	"webDir": "build",
+	"server": {
+		"url": "https://cbc-barbados-hd.preview.emergentagent.com",
+		"cleartext": true
+	},
+	"android": {
+		"allowMixedContent": true,
+		"backgroundColor": "#02040a"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#02040a",
+			"showSpinner": false
+		}
+	}
+}

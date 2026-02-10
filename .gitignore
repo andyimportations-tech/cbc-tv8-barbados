@@ -1,0 +1,15 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.externalNativeBuild
+.cxx/
+lint/

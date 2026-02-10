@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CBC TV 8 Barbados</string>
+    <string name="title_activity_main">CBC TV 8 Barbados</string>
+    <string name="package_name">com.cbctv8.barbados</string>
+    <string name="custom_url_scheme">com.cbctv8.barbados</string>
+</resources>
